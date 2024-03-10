@@ -11,9 +11,9 @@ Todos
     -DONE Create core app and front page
     -DONE Create about page
 
-    - Custom user model
-    - Sign up
-    - Log in
+    -DONE Custom user model
+    -DONE Sign up
+    -DONE Log in
     
     - Project list page
     - Create project
