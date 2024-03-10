@@ -7,7 +7,7 @@
         <p class="mb-6">{{ project.description }}</p>
     {% endif %}
 
-    <a href="#" class="py-4 px-8 bg-emerald-600 text-white inline-block">Add todolist</a>
+    <a href="{% url 'todolist:add' project.id %}" class="py-4 px-8 bg-emerald-600 text-white inline-block">Add todolist</a>
     <a href="{% url 'project:edit' project.id %}" class="py-4 px-8 bg-sky-600 text-white inline-block">Edit</a>
     <a href="{% url 'project:delete' project.id %}" class="py-4 px-8 bg-amber-600 text-white inline-block">Delete</a>
 
