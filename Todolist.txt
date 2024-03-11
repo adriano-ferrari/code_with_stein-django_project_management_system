@@ -22,24 +22,24 @@ Todos
     -DONE Delete project
 
     -DONE Create todo list
-    - Todo list detail page
-    - Edit todo list
-    - Delete todo list
+    -DONE Todo list detail page
+    -DONE Edit todo list
+    -DONE Delete todo list
 
-    - Create tasks
-    - Task detail page
-    - Edit tasks
-    - Delete tasks
+    -DONE Create tasks
+    -DONE Task detail page
+    -DONE Edit tasks
+    -DONE Delete tasks
 
-    - File uploads for projects
-    - Files list on project page
-    - Delete files
+    -DONE File uploads for projects
+    -DONE Files list on project page
+    -DONE Delete files
 
-    - Create notes for projects
-    - Notes list on projects
-    - Detail page for notes
-    - Edit note
-    - Delete note
+    -DONE Create notes for projects
+    -DONE Notes list on projects
+    -DONE Detail page for notes
+    -DONE Edit note
+    -DONE Delete note
 
     -Deployment
         - Set up requirements.txt
